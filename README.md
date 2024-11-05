@@ -1,13 +1,13 @@
 # Adaptive Partial Transformer for Infrared Small Target Detection
 The code of APTNet is on the way.
 
-![outline](network.jpg)
+![outline](Fig/picture1.jpg)
 
 
 ## Results and Trained Models
 #### Qualitative Results
 
-![outline](picture2.jpg)
+![outline](Fig/picture2.jpg)
 
 #### Quantitative Results on NUAA-SIRST, and IRSTD-1K
 
