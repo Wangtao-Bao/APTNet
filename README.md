@@ -1,8 +1,38 @@
 # Adaptive Partial Transformer for Infrared Small Target Detection
 We have submitted the paper for review and will make the code available after publication.
 
+## Network
 ![outline](Fig/picture1.jpg)
 
+## Datasets
+**Our project has the following structure:**
+  ```
+  ├───dataset/
+  │    ├── NUAA-SIRST
+  │    │    ├── image
+  │    │    │    ├── Misc_1.png
+  │    │    │    ├── Misc_2.png
+  │    │    │    ├── ...
+  │    │    ├── mask
+  │    │    │    ├── Misc_1.png
+  │    │    │    ├── Misc_2.png
+  │    │    │    ├── ...
+  │    │    ├── train_NUAA-SIRST.txt
+  │    │    │── train_NUAA-SIRST.txt
+  │    ├── IRSTD-1K
+  │    │    ├── image
+  │    │    │    ├── XDU0.png
+  │    │    │    ├── XDU1.png
+  │    │    │    ├── ...
+  │    │    ├── mask
+  │    │    │    ├── XDU0.png
+  │    │    │    ├── XDU1.png
+  │    │    │    ├── ...
+  │    │    ├── train_IRSTD-1K.txt
+  │    │    ├── train_IRSTD-1K.txt
+  │    ├── ...  
+  ```
+<be>
 
 ## Results and Trained Models
 #### Qualitative Results
@@ -15,7 +45,7 @@ We have submitted the paper for review and will make the code available after pu
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | NUAA-SIRST    | 76.78  |  86.86 | 98.10 | 11.82 |
 | IRSTD-1K      | 70.56  |  82.72 | 92.57 | 9.09 |
-
+| [weight](https://github.com/YeRen123455/Infrared-Small-Target-Detection)      |
 
 
 
