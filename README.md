@@ -47,8 +47,8 @@ We have submitted the paper for review and will make the code available after pu
 | IRSTD-1K      | 70.56  |  82.72 | 92.57 | 9.09 |
 | [[weights]]()|
 
-
 *This code is highly borrowed from [MSHNet](https://github.com/Lliu666/MSHNet). Thanks to Qiankun Liu.
+
 *The overall repository style is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
 
