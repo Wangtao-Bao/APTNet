@@ -45,7 +45,7 @@ We have submitted the paper for review and will make the code available after pu
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | NUAA-SIRST    | 76.78  |  86.86 | 98.10 | 11.82 |
 | IRSTD-1K      | 70.56  |  82.72 | 92.57 | 9.09 |
-| [weight](https://github.com/YeRen123455/Infrared-Small-Target-Detection)      |
+| [weight(https://github.com/YeRen123455/Infrared-Small-Target-Detection)]      |
 
 
 
