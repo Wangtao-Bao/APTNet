@@ -1,5 +1,6 @@
 # Adaptive Partial Transformer for Infrared Small Target Detection
-We have submitted the paper for review and will make the code available after publication.
+
+**We have submitted the paper for review and will make the code available after publication.**
 
 ## Network
 ![outline](Fig/picture1.jpg)
@@ -34,7 +35,7 @@ We have submitted the paper for review and will make the code available after pu
   ```
 <be>
 
-## Results and Trained Models
+## Results
 #### Qualitative Results
 
 ![outline](Fig/picture2.jpg)
