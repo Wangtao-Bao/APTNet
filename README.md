@@ -1,5 +1,5 @@
 # Adaptive Partial Transformer for Infrared Small Target Detection
-The code of APTNet is on the way.
+We have submitted the paper for review and will make the code available after publication.
 
 ![outline](Fig/picture1.jpg)
 
