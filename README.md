@@ -46,7 +46,7 @@
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
 | NUAA-SIRST    | 76.78  |  86.86 | 98.10 | 11.82 |
 | IRSTD-1K      | 70.56  |  82.72 | 92.57 | 9.09 |
-| [[weights]]()|
+| [[weights]](https://drive.google.com/drive/folders/1IQTcMyuPS0CJKpL9LgJuNrEuzOJsFgtb?usp=sharing)|
 
 *This code is highly borrowed from [MSHNet](https://github.com/Lliu666/MSHNet). Thanks to Qiankun Liu.
 
