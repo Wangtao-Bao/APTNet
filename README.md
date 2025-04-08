@@ -40,7 +40,7 @@
 
 ![outline](Fig/picture2.jpg)
 
-#### Quantitative Results on NUAA-SIRST, and IRSTD-1K
+#### Quantitative Results on NUAA-SIRST, and IRSTD-1K Datasets
 
 | Dataset         | IoU (x10(-2)) | F-measure (x10(-2))| Pd (x10(-2))|  Fa (x10(-6))|
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
