@@ -50,6 +50,7 @@ On April 3, 2025, our paper was officially accepted by ***IEEE Sensors Journal**
 
 ## Acknowledgement
 *This code is highly borrowed from [MSHNet](https://github.com/Lliu666/MSHNet). Thanks to Qiankun Liu.
+
 *The overall repository style is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
 
