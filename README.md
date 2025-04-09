@@ -1,6 +1,6 @@
 # Adaptive Partial Transformer for Infrared Small Target Detection
 
-On April 3, 2025, our paper was officially accepted by *IEEE Sensors Journal*. We would like to express our sincere gratitude to all reviewers and editors for their valuable comments and patient guidance during the review process, which played an important role in improving the quality of our paper. We are deeply honored and express our sincere gratitude.
+On April 3, 2025, our paper was officially accepted by ***IEEE Sensors Journal***. We would like to express our sincere gratitude to all reviewers and editors for their valuable comments and patient guidance during the review process, which played an important role in improving the quality of our paper. We are deeply honored and express our sincere gratitude.
 
 ## Network
 ![outline](Fig/picture1.jpg)
@@ -50,7 +50,6 @@ On April 3, 2025, our paper was officially accepted by *IEEE Sensors Journal*. W
 
 ## Acknowledgement
 *This code is highly borrowed from [MSHNet](https://github.com/Lliu666/MSHNet). Thanks to Qiankun Liu.
-
 *The overall repository style is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
 
