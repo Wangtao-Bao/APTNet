@@ -53,7 +53,20 @@ On April 3, 2025, our paper was officially accepted by ***IEEE Sensors Journal**
 
 *The overall repository style is highly borrowed from [DNANet](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
-
+## Citation
+If you found this project helpful, please give us a star. If HAFNet has inspired you, please consider citing it. Thank you!
+```
+@ARTICLE{10965861,
+  author={Zhang, Yingmei and Bao, Wangtao and Wan, Weiguo and Xiao, Qin and Tang, Yingjun and Zou, Xueting and Huang, Liu and Zhong, Kaichen and Lan, Yuhao},
+  journal={IEEE Sensors Journal}, 
+  title={APTNet: Adaptive Partial Transformer Network for Infrared Small Target Detection}, 
+  year={2025},
+  volume={25},
+  number={10},
+  pages={17960-17974},
+  keywords={Transformers;Computer architecture;Object detection;Shape;Intelligent sensors;Training;Feature extraction;Data mining;Background noise;Adaptive systems;Adaptive partial transformer block;double residual attention block (DRAB);infrared small target detection},
+  doi={10.1109/JSEN.2025.3559093}}
+```
 
 
 
